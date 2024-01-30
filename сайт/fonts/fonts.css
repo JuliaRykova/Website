@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "OpenSans-Bold";
+    src: url(../fonts/OpenSans-Bold.ttf);
+  }
+  
+  @font-face {
+    font-family: "open-sans-semibold-itali";
+    src: url(../fonts/open-sans-semibold-italic.ttf);
+  }
+  
+  @font-face {
+    font-family:"open-sans-semibold_[allfont.ru]" ;
+    src: url(../fonts/open-sans-semibold_[allfont.ru].ttf);
+  }
+  
+  @font-face {
+    font-family: "OpenSans-CondBold";
+    src: url(../fonts/OpenSans-CondBold.ttf);
+  }
+  
+  @font-face {
+    font-family: "OpenSans-CondLight" ;
+    src: url(../fonts/OpenSans-CondLight.ttf);
+  }
+  
+  @font-face {
+    font-family: "OpenSans-CondLightItalic" ;
+    src: url(../fonts/OpenSans-CondLightItalic.ttf);
+  }
+  
+  @font-face {
+    font-family: "OpenSans-Regular" ;
+    src: url(../fonts/OpenSans-Regular.ttf);
+  }
+  
