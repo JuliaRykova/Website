@@ -5,8 +5,8 @@ for (let li of carousel.querySelectorAll('li')) {
     k++;
 }
 
-let width = 130;
-let count = 3;
+let width = 180;
+let count = 5;
 let list = carousel.querySelector('ul');
 let listElems = carousel.querySelectorAll('li');
 

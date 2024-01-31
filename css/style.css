@@ -279,7 +279,7 @@ span.sim-dot {
   justify-content: space-between;
   display: flex;
   flex-direction: column;
-  margin-top: 120px;
+  margin-top: 145px;
 }
 
 .catalog-product-text {
@@ -384,7 +384,7 @@ span.sim-dot {
 .carousel {
   position: relative;
   padding: 10px 40px;
-  max-width: 1200px;
+  max-width: 1100px;
 }
 
 .catalog-heading-customers {
@@ -416,8 +416,10 @@ span.sim-dot {
 }
 
 .arrow:hover {
-  background: #ccc;
+  /* background: #ccc; */
+  border: none;
   cursor: pointer;
+  opacity: 1;
 }
 
 .prev {
@@ -431,6 +433,7 @@ span.sim-dot {
 }
 
 .gallery {
+  color: #fff;
   overflow: hidden;
   height: 149px;
 }
@@ -519,7 +522,7 @@ a.gallery-img {
   width: 144px;
   height: 130px;
   background-color: #ffffff;
-  margin: 0 15px;
+  margin: 0 17px;
 }
 
 .gallery-ul {
